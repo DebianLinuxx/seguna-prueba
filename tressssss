@@ -1,4 +1,4 @@
 <div id="qrcode"></div>
 <script type="text/javascript">
-new QRCode(document.getElementById("qrcode"), "https://www.ribosomatic.com");
+new QRCode(document.getElementById("qrcode"), "file:///C:/Users/HP/Downloads/Validador-QR-EDGAR-01.html");
 </script>
